@@ -1,0 +1,9 @@
+[http]
+[user]
+	name = Grayson Hilliard
+	signingkey = 2A977AD2386E8078
+	email = grsn.hilliard@gmail.com
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
